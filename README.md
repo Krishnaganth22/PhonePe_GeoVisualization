@@ -79,9 +79,5 @@ Plotly: Utilized for creating interactive visualizations and maps.
 Pandas: Employed for data manipulation and analysis.
 MySQL: Used as the database management system for storing Phonepe data.
 Python: The primary programming language used for app development and data processing.
-Contributors
-[Your Name]
-[Additional Contributors (if any)]
-License
-This project is licensed under the MIT License.
+
 
