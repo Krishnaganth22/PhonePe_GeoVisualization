@@ -4,8 +4,8 @@ import os
 import git
 import mysql.connector
 from sqlalchemy import create_engine
-import plotly.express as px
-import streamlit as st
+
+#Data Cloning and Extraction and Insertion into My SQL database
 
 !git clone https://github.com/PhonePe/pulse.git
 
