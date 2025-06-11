@@ -5,7 +5,7 @@ This project aims to analyze and visualize data from various sources related to 
 Project Structure
 The project is organized into the following directories:
 
-data: Contains raw data files obtained from various sources.
+Data: Contains raw data files obtained from various sources.
 scripts: Contains Python scripts used for data extraction, transformation, and loading into the database.
 visualizations: Contains Jupyter notebooks or Python scripts for data visualization using libraries like Matplotlib, Seaborn, and Plotly.
 docs: Contains documentation files related to the project.
